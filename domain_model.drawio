@@ -13,7 +13,7 @@
         <mxCell id="1672d66443f91eb5-7" value="&lt;p&gt;Playlist&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="530" y="500" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1672d66443f91eb5-8" value="&lt;p&gt;Input Analyzer&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fontStyle=1;fillColor=light-dark(#FFFFFF,#0066CC);" parent="1" vertex="1">
+        <mxCell id="1672d66443f91eb5-8" value="&lt;p&gt;Input Analyzer&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fontStyle=1;fillColor=light-dark(#FFFFFF,#3399FF);strokeColor=light-dark(#000000,#3399FF);" parent="1" vertex="1">
           <mxGeometry x="990" y="700" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1672d66443f91eb5-9" value="&lt;p&gt;Input&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fontStyle=1" parent="1" vertex="1">
